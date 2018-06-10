@@ -1,0 +1,31 @@
+body {
+	background-image: url(/Users/RyanTravers/Desktop/UdemyCourses/To_Do_Website/cover.jpeg);
+	background-size: cover;
+}
+
+.navbar-default {
+	background-color: #44515A;
+	align-content: center;
+}
+
+.img {
+	margin: -10px;
+	margin-right: 0px;
+    padding: 0px;
+}
+
+.input-size { 
+	box-sizing: border-box;
+	width: 200px;
+	padding-left: 300px;
+	padding-right: 300px;
+ }
+
+ul {
+	margin-bottom: 100px;
+}
+
+li {
+ 	.list-group-item;
+ }
+
